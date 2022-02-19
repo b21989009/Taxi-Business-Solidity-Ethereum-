@@ -1,10 +1,7 @@
 
  Shared Taxi Business 
 
-   By Mehmet Giray Nacakci, 21989009, BBM443 Fall2021 
-
-
-* If nacakci.sol does not work, the same code is in nacakci.txt
+   By Mehmet Giray Nacakci, BBM443 Fall2021 
 
 
 TESTING NOTES
